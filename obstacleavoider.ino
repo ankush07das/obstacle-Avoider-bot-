@@ -14,7 +14,7 @@ const int ForwardLED = 8;
 const int BackwardLED = 9;
 const int LeftLED = 11;
 const int RightLED = 12;
-
+//modification by Sayak
 //sensor pins
 #define trig_pin A1 //analog input 1
 #define echo_pin A2 //analog input 2
